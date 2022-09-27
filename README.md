@@ -2,4 +2,5 @@
  Github actions are CI/CD tool for to build and deploy your code to web apps. for more info visit [Githubactions](https://github.com/features/actions)
  
  ## Below steps are specify that how to create python application in your local machine and deploy on AZURE WEB APP:
-#### step1: 
+#### Step1: 
+   create your repo 
